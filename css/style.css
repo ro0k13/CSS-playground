@@ -15,8 +15,8 @@ body {
 }
 
 .main {
-    border: 3px solid grey;
-    width: 55%;
+    border: 5px solid grey;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 #green {
-    border-color: greend;
+    border-color: green;
 }
 
 #blue {
